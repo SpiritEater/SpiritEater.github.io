@@ -1,2 +1,2 @@
-# SpiritEater.gitnub.io
+# SpiritEater.github.io
 123
